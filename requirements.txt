@@ -30,7 +30,7 @@ ipyevents==2.0.1
 ipyfilechooser==0.6.0
 ipykernel==6.17.1
 ipyleaflet==0.17.2
-ipython==8.7.0
+ipython==8.10.0
 ipytree==0.2.2
 ipywidgets==8.0.2
 jedi==0.18.2
